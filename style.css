@@ -1,0 +1,8 @@
+/* styles.css */
+
+.moved-text {
+    transform: translate(350px, 12px); 
+}
+
+.moved-img {transform: translate(350px, 12px)}
+
